@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, my name is Sergio 👋
 
+I'm a student at [CEV](https://www.cev.com), currently doing an apps course and have completed a videogames one.
+I have experience using javascript, c++, python, json, sql; and some of the programs i use are unity, xamp, visual studio and visual studio code, netbeans. 
+
+You can see some of my work in:
+[Artstation (link unavailable)]()
 <!--
 **Alcach/Alcach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
