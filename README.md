@@ -1,4 +1,5 @@
-##Es
+## Es
+
 ## Hola, me llano Sergio 👋
 
 Soy un estudiante en [CEV](https://www.cev.com), Ahora mismo estoy haciendo un curso de apps, y he completado uno de videojuegos.
@@ -8,7 +9,8 @@ Puedes ver lo que hice en el curso de videojuegos en:
 [Artstation](https://sergiocosta4.artstation.com/)
 Y aqui en github, la programación.
 
-##En
+## En
+
 ## Hi, my name is Sergio 👋
 
 I'm a student at [CEV](https://www.cev.com), currently doing an apps course and have completed a videogames one.
