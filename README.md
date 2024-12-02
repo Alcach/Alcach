@@ -4,7 +4,7 @@ I'm a student at [CEV](https://www.cev.com), currently doing an apps course and 
 I have experience using javascript, c++, python, json, sql; and some of the programs i use are unity, xamp, visual studio and visual studio code, netbeans. 
 
 You can see some of my work in:
-[Artstation (link unavailable)]()
+[Artstation](https://sergiocosta4.artstation.com/)
 <!--
 #https://github.com/anuraghazra/github-readme-stats/blob/master/api/top-langs.js
 <!--
